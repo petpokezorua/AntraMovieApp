@@ -24,6 +24,8 @@ public class MovieShopDbContext : DbContext
         // })
 
         modelBuilder.Entity<Movie>(ConfigureMovie);
+        modelBuilder.Entity<MovieGenre>(ConfigureMovieGenre);
+
     }
 
     private void ConfigureMovieGenre(EntityTypeBuilder<MovieGenre> modelBuilder)

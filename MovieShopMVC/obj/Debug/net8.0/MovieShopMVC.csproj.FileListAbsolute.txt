@@ -145,3 +145,4 @@ C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\MovieShopMVC\obj\Debug
 C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\MovieShopMVC\obj\Debug\net8.0\MovieShopMVC.pdb
 C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\MovieShopMVC\obj\Debug\net8.0\MovieShopMVC.genruntimeconfig.cache
 C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\MovieShopMVC\obj\Debug\net8.0\ref\MovieShopMVC.dll
+C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\MovieShopMVC\obj\Debug\net8.0\MovieShopMVC.sourcelink.json

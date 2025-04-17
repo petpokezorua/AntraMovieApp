@@ -9,3 +9,4 @@ C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\ApplicationCore\obj\De
 C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
 C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
 C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
+C:\Users\Zorya\Desktop\Antra\MovieAssignment\MovieShopApp\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
