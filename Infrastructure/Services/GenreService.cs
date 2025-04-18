@@ -12,4 +12,14 @@ public class GenreService : IMovieService
         
         throw new NotImplementedException();
     }
+
+    public MovieDetailsModel GetMovieDetails(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public MovieDetailsModel DeleteMovie(int id)
+    {
+        throw new NotImplementedException();
+    }
 }

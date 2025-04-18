@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ApplicationCore.Entities;
 
-[Table("Genre")]
+[Table("Genres")]
 public class Genre
 {
     public int Id { get; set; }
