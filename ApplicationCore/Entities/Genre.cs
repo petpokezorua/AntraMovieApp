@@ -11,5 +11,5 @@ public class Genre
     public string Name { get; set; }
     
     // Navigation Property
-    public ICollection<MovieGenre> Movies { get; set; }
+    public ICollection<MovieGenre> MovieGenres { get; set; }
 }

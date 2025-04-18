@@ -11,7 +11,7 @@ public class Trailer
     [MaxLength(256)]
     public string Name { get; set; }
     // Foreign key 
-    [ForeignKey("Movies")]
+    [ForeignKey("Movie")]
     public int MovieId { get; set; }
     // Navigation property
     public Movie Movie { get; set; }
